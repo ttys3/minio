@@ -31,7 +31,7 @@ require (
 	github.com/hashicorp/vault v1.1.0
 	github.com/inconshreveable/go-update v0.0.0-20160112193335-8152e7eb6ccf
 	github.com/json-iterator/go v1.1.7
-	github.com/klauspost/compress v1.8.3
+	github.com/klauspost/compress v1.14.4
 	github.com/klauspost/pgzip v1.2.1
 	github.com/klauspost/readahead v1.3.1
 	github.com/klauspost/reedsolomon v1.9.3
@@ -41,7 +41,7 @@ require (
 	github.com/minio/cli v1.22.0
 	github.com/minio/gokrb5/v7 v7.2.5
 	github.com/minio/hdfs/v3 v3.0.1
-	github.com/minio/highwayhash v1.0.0
+	github.com/minio/highwayhash v1.0.2
 	github.com/minio/lsync v1.0.1
 	github.com/minio/mc v0.0.0-20191012041914-735aa139b19c
 	github.com/minio/minio-go v0.0.0-20190327203652-5325257a208f
@@ -50,8 +50,8 @@ require (
 	github.com/minio/sha256-simd v0.1.1
 	github.com/minio/sio v0.2.0
 	github.com/mitchellh/go-homedir v1.1.0
-	github.com/nats-io/nats-server/v2 v2.1.2
-	github.com/nats-io/nats.go v1.9.1
+	github.com/nats-io/nats-server/v2 v2.7.4
+	github.com/nats-io/nats.go v1.13.1-0.20220308171302-2f2f6968e98d
 	github.com/nats-io/stan.go v0.4.5
 	github.com/ncw/directio v1.0.5
 	github.com/nsqio/go-nsq v1.0.7
@@ -67,8 +67,8 @@ require (
 	github.com/streadway/amqp v0.0.0-20190402114354-16ed540749f6
 	github.com/valyala/tcplisten v0.0.0-20161114210144-ceec8f93295a
 	go.uber.org/atomic v1.3.2
-	golang.org/x/crypto v0.0.0-20190923035154-9ee001bba392
-	golang.org/x/sys v0.0.0-20190922100055-0a153f010e69
+	golang.org/x/crypto v0.0.0-20220112180741-5e0467b6c7ce
+	golang.org/x/sys v0.0.0-20220111092808-5a964db01320
 	google.golang.org/api v0.4.0
 	gopkg.in/Shopify/sarama.v1 v1.20.0
 	gopkg.in/ldap.v3 v3.0.3
